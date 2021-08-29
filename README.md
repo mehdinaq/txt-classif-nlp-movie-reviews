@@ -19,7 +19,7 @@ Movie reviews data posted on [website](http://ai.stanford.edu/~amaas/data/sentim
 ![top 10 words](https://user-images.githubusercontent.com/8281173/131254349-53dfd24b-f3f3-4f3c-845e-df8b4f00226b.png)
 <br /><br />
 
-Model Performance:<br />
+### Model Performance<br />
 Accuracy for Linear SVC : 89%<br /><br /> 
 ![confusion matrix nlp](https://user-images.githubusercontent.com/8281173/131254358-aef6f105-70e1-49a1-9fba-4cb5ed9aaf98.png)
 
